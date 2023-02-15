@@ -1,2 +1,4 @@
 #!/bin/bash
-BEST="School"
+echo "Best School" > \\\ > \\\*\\
+\\\'\"Best School\"\\\'\\\
+\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
